@@ -57,7 +57,7 @@ HTML · CSS · JavaScript · React · Bootstrap · Tailwind · Power BI · Optim
 
 ## Method
 
-Design is not visual styling.
+Design is more than visual styling.
 Design is structured decision-making under constraints.
 
 [https://ramonadsouza.com/methods.html](https://ramonadsouza.com/methods.html)
