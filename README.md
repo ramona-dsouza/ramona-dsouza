@@ -2,8 +2,7 @@
 
 Product Systems Designer. Technical Execution. AI-Forward Integration.
 
-I design structured systems that turn ambiguity into measurable execution.
-Interfaces are surface. Architecture is leverage.
+I design structured systems that turn ambiguity into measurable execution. 
 
 ---
 
